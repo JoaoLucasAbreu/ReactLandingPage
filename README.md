@@ -1,1 +1,4 @@
 # ReactLandingPage
+
+yarn 
+yarn dev
